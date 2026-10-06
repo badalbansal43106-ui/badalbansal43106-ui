@@ -1,16 +1,34 @@
-## Hi there 👋
+Hey there, I'm Deep 👋
+💻 Deep Ships Code — Building ideas into real products
+Load image
+🚀 About Me
+🍽️ Founder of Swadist Tiffin — an AI-powered food ordering & delivery platform (Lucknow)
+🎮 Building Khan Khazane Ki Talash — a treasure-hunt mobile game
+🤖 Exploring AI automation, no-code tools, and full-stack product building
+🌱 Constantly learning, constantly shipping
+📫 Reach me on Instagram / WhatsApp for collabs
+🛠️ Tech & Tools
+�
+�
+�
+�
+�
+�
+�
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+Load image
+📌 Featured Projects
+🍽️ Swadist Tiffin
+AI-powered food ordering & delivery platform — Zomato-style thaali ordering with secure backend, admin dashboard, WhatsApp auto-confirmations, and an AI support assistant.
+🎮 Khan Khazane Ki Talash
+A treasure-hunt themed mobile game — fully built, currently polishing before public launch.
 
-<!--
-**badalbansal43106-ui/badalbansal43106-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats
+Load image
+Load image
+Tools change. Curiosity doesn't. 🚀
